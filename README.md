@@ -1,8 +1,8 @@
-# React + Vite
+# Score Keeper 프로젝트 (학습용 프로젝트)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![결과](images/scorekeeper.png);
 
-Currently, two official plugins are available:
+### 배운점
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 세 사람 중 특정 점수에 도달하면 이기는 미니 게임기를 만들어 보았다
+- 점수의 변화를 구현하기 위해 useState 개념을 이용하며 학습하였다.
